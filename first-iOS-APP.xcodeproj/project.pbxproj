@@ -156,6 +156,7 @@
 		A1B0F5831BA2B12900796808 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftUpdateCheck = 0710;
 				LastUpgradeCheck = 0640;
 				ORGANIZATIONNAME = leiquan.me;
 				TargetAttributes = {
@@ -409,6 +410,7 @@
 				A1B0F5AC1BA2B12A00796808 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A1B0F5AD1BA2B12A00796808 /* Build configuration list for PBXNativeTarget "first-iOS-APPTests" */ = {
 			isa = XCConfigurationList;
@@ -417,6 +419,7 @@
 				A1B0F5AF1BA2B12A00796808 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
