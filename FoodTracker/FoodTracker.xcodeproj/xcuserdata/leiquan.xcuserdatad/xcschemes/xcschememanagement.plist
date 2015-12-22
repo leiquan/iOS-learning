@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>first-iOS-APP.xcscheme</key>
+		<key>FoodTracker.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,12 +12,12 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>A1B0F58A1BA2B12900796808</key>
+		<key>A152D1BB1C29A0230084B0F3</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>A1B0F59F1BA2B12A00796808</key>
+		<key>A152D1CF1C29A0230084B0F3</key>
 		<dict>
 			<key>primary</key>
 			<true/>

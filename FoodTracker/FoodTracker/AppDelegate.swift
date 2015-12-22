@@ -1,9 +1,9 @@
 //
 //  AppDelegate.swift
-//  first-iOS-APP
+//  FoodTracker
 //
-//  Created by leiquan on 15/9/10.
-//  Copyright (c) 2015年 leiquan.me. All rights reserved.
+//  Created by leiquan on 15/12/22.
+//  Copyright © 2015年 leiquan.me. All rights reserved.
 //
 
 import UIKit
